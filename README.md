@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, clone the project with git.
+First, clone the project using git:
 
 ```bash
 git clone https://github.com/officialrajdeepsingh/contact-form-with-action.git
