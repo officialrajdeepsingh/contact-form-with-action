@@ -8,7 +8,7 @@ git clone https://github.com/officialrajdeepsingh/contact-form-with-action.git
 gh repo clone officialrajdeepsingh/contact-form-with-action
 ```
 
-Install the node package in React Re-render:
+Install the node package in your repository:
 
 ```bash
 npm install
