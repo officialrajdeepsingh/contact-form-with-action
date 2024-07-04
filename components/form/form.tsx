@@ -12,7 +12,6 @@ import {
 import { useActionState } from "react";
 import { SubmitButton } from "./button";
 import { toast } from "sonner";
-import { FormDataReturn } from "@/types";
 import contactAction from "./action";
 
 export function ContactForm() {
